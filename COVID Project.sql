@@ -173,4 +173,5 @@ SELECT * FROM sys.views WHERE name = 'PercentPopulationVaccinated';
 
 
 Select *
+
 From PercentPopulationVaccinated
