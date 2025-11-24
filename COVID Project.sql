@@ -171,7 +171,3 @@ SELECT * FROM dbo.PercentPopulationVaccinated;
 -- Check if the view exists in the system catalog and confirm its metadata
 SELECT * FROM sys.views WHERE name = 'PercentPopulationVaccinated';
 
-
-Select *
-
-From PercentPopulationVaccinated
